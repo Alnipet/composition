@@ -1,0 +1,13 @@
+.wrapper {
+  margin-top: 10px;
+  display: flex;
+}
+
+.item {
+  margin-right: 15px;
+}
+
+.name {
+  font-weight: 500;
+  margin-right: 7px;
+}

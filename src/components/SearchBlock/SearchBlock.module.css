@@ -1,0 +1,22 @@
+.wrapper {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+  display: flex;
+  align-items: center;
+}
+
+.input {
+  width: 90%;
+  padding: 5px 10px;
+
+  border: 2px solid rgb(255, 200, 0);
+}
+
+.btn {
+  width: 10%;
+  padding: 5px 10px;
+
+  border: 2px solid rgb(255, 200, 0);
+  background-color: rgb(255, 200, 0);
+}

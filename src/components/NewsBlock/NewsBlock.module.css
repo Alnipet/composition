@@ -1,0 +1,9 @@
+.wrapper {
+  width: 600px;
+}
+
+.header {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}

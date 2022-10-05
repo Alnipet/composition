@@ -1,0 +1,11 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+
+}
+
+.item {
+  margin-right: 10px;
+  font-weight: 500;
+  color:rgb(20, 20, 200);
+}

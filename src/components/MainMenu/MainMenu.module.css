@@ -1,0 +1,13 @@
+.wrapper {
+  margin-top: 25px;
+  display: flex;
+  align-items: center;
+
+}
+
+.item {
+  margin-right: 15px;
+  font-size: 1.15rem;
+  font-weight: 500;
+  color:rgb(20, 20, 200);
+}
